@@ -10,6 +10,6 @@ $1221x^4+364 x^3+78 x^2+12 x-3$
 
 as 
 
-$(x^2+x+1)^12-(3 x^3-2)^2$
+$(x^2+x+1)^{12}-(3 x^3-2)^2$
 
-which I think it kind of neat. 
+which I think is kind of neat. 
